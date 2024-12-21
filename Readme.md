@@ -10,6 +10,8 @@ This smart contract is designed to incentivize good behavior, create transparent
 
 ## Contract Address
 0x6260F40928c825F61e2B44Ca004aE7d619502412
+![Screenshot 2024-12-21 142854](https://github.com/user-attachments/assets/337e7394-2c68-4936-9f50-5445588eae11)
+
 
 ## Key Features
 - **Task Creation**: Forum administrators or creators can create moderation tasks and specify a reward for completion.
